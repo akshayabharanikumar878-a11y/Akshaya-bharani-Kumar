@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  I'm a B.Sc Artificial Intelligence & Data Science student
+  I'm a Akshaya B.Sc Artificial Intelligence & Data Science student
   passionate about learning technology, building projects,
   and exploring new ideas.
 </p>
@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="YOUR_LINKEDIN_LINK"> 
 <img src="https://img.shields.io/badge/LinkedIn-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=6D5A9E"/>
 </a>
 
@@ -41,4 +41,17 @@
 <img src="https://img.shields.io/badge/Gmail-E0A5AF?style=for-the-badge&logo=gmail&logoColor=6D5A9E"/>
 </a>
 
+</p>
+<hr>
+
+<h2 align="center">
+  🌸 LEARN TODAY, BUILD TOMORROW 🌸
+</h2>
+
+<p align="center">
+  ✨ Learning • Creating • Growing ✨
+</p>
+
+<p align="center">
+  Made with 💜 by Akshaya
 </p>
