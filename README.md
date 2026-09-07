@@ -52,6 +52,3 @@
   ✨ Learning • Creating • Growing ✨
 </p>
 
-<p align="center">
-  Made with 💜 by Akshaya
-</p>
