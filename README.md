@@ -39,3 +39,9 @@
 - Machine Learning
 - Technology
 - Content Creation
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
+<img src="https://streak-stats.demolab.com?user=akshaya123" />
