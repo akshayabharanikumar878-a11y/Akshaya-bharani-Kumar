@@ -1,47 +1,44 @@
-# Akshaya-bharani-Kumar
-<h1 align="center">Hi 👋, I'm Akshaya</h1>
-<h3 align="center">B.Sc Artificial Intelligence & Data Science Student</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Python+Learner;Future+Data+Scientist;Always+Learning+%F0%9F%8C%B8" />
-</p>
-<h2 align="center">💻 My Skills</h2>
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-## 🌷 About Me
-
-- 🎓 I'm a B.Sc Artificial Intelligence & Data Science student.
-- 💻 I'm interested in Artificial Intelligence and Data Science.
-- 🐍 Currently improving my Python skills.
-- 🚀 Exploring GitHub and building my coding journey.
-- 🌱 I love learning new technologies.
-  ## 📚 Currently Learning
-
-- 🐍 Python
-- 📊 Data Science
-- 🤖 Artificial Intelligence
-- 🐙 Git & GitHub
-- 💡 Problem Solving
-  ## ✨ My Interests
-
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Technology
-- Content Creation
-## 🔥 GitHub Streak
+<h2 align="center">
+  🌸 ABOUT ME
+</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+  I'm a B.Sc Artificial Intelligence & Data Science student
+  passionate about learning technology, building projects,
+  and exploring new ideas.
 </p>
-<img src="https://streak-stats.demolab.com?user=akshaya123" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Always%20Learning-E0A5AF?style=for-the-badge&labelColor=6D5A9E&color=D8B4FE"/>
+  <img src="https://img.shields.io/badge/Curious%20Mind-D8B4FE?style=for-the-badge&labelColor=6D5A9E&color=E0A5AF"/>
+  <img src="https://img.shields.io/badge/Keep%20Growing-E0A5AF?style=for-the-badge&labelColor=6D5A9E&color=D8B4FE"/>
+</p>
+<h3 align="center">🌷 INTERESTS</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-E0A5AF?style=for-the-badge&labelColor=6D5A9E&color=E0A5AF"/>
+  <img src="https://img.shields.io/badge/Data%20Science-D8B4FE?style=for-the-badge&labelColor=6D5A9E&color=D8B4FE"/>
+  <img src="https://img.shields.io/badge/Python-D8B4FE?style=for-the-badge&labelColor=6D5A9E&color=E0A5AF"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-E0A5AF?style=for-the-badge&labelColor=6D5A9E&color=D8B4FE"/>
+</p>
+<h3 align="center">📚 CURRENTLY LEARNING</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-D8B4FE?style=for-the-badge&labelColor=6D5A9E&color=E0A5AF"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-E0A5AF?style=for-the-badge&labelColor=6D5A9E&color=D8B4FE"/>
+  <img src="https://img.shields.io/badge/AI%20Projects-D8B4FE?style=for-the-badge&labelColor=6D5A9E&color=E0A5AF"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-E0A5AF?style=for-the-badge&labelColor=6D5A9E&color=D8B4FE"/>
+</p>
+<h2 align="center">🤝 CONNECT WITH ME</h2>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=6D5A9E"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-E0A5AF?style=for-the-badge&logo=gmail&logoColor=6D5A9E"/>
+</a>
+
+</p>
